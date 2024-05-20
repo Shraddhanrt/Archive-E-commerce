@@ -1,0 +1,133 @@
+--- 
+files: 
+  certificate: 
+    ritzenchantress_com_a28ae_c6f85_1700002141_354a5e647152c50dd2fe93e9b632472e: 
+      created: '1692229743'
+      domains: 
+        - autodiscover.ritzenchantress.com
+        - cpanel.ritzenchantress.com
+        - cpcalendars.ritzenchantress.com
+        - cpcontacts.ritzenchantress.com
+        - mail.ritzenchantress.com
+        - ritzenchantress.com
+        - webdisk.ritzenchantress.com
+        - webmail.ritzenchantress.com
+        - www.ritzenchantress.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: autodiscover.ritzenchantress.com, cpanel.ritzenchantress.com, cpcalendars.ritzenchantress.com, cpcontacts.ritzenchantress.com, mail.ritzenchantress.com, ritzenchantress.com, webdisk.ritzenchantress.com, webmail.ritzenchantress.com, and www.ritzenchantress.com
+      id: ritzenchantress_com_a28ae_c6f85_1700002141_354a5e647152c50dd2fe93e9b632472e
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: a28ae6b74b7d569b1a718ab915dfa265fa77e85241615a46c71250358003f4e5f16ea2db55b8f2d96dbd653d5766fcae6c93b89fe3937a06a0b3e9e85a273dd25b4bc47297d0cfc0b315f0cc9ca788037b45e2b915384902068c7b42dd645d1b9a9f9d8a61f541027628b9a5e1027bc6c754524da227ca7b212a21ad4fabed04e51b1b267f3587962905ebe45190f0484ef2d139293e156b0e74064f430414d51bed7ceaf86cb1a909cfb3fa238206e8d316d06ee1425e5bc335c1157370a718793d8f26d0d15e8951eb91fd97f496f1ba7449fc338668ce9fec00171534dc415aa0a18f12591739c8c5ccfa0753d10450e932d2f454b3a32ce02d4be4cc6f85
+      modulus_length: 2048
+      not_after: '1700002141'
+      not_before: '1692226142'
+      serial: 04967d38c0d33a061b6b872979aff2e177e2
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ritzenchantress.com
+      validation_type: dv
+    ritzenchantress_com_cff85_adffd_1689897599_e613ef9072cbac99b7b190b623d10af7: 
+      created: '1682114741'
+      domains: 
+        - ritzenchantress.com
+        - autodiscover.ritzenchantress.com
+        - cpanel.ritzenchantress.com
+        - cpcalendars.ritzenchantress.com
+        - cpcontacts.ritzenchantress.com
+        - mail.ritzenchantress.com
+        - webdisk.ritzenchantress.com
+        - webmail.ritzenchantress.com
+        - www.ritzenchantress.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “ritzenchantress.com” 1682114741.0
+      id: ritzenchantress_com_cff85_adffd_1689897599_e613ef9072cbac99b7b190b623d10af7
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: cff85b4e2b5ffc13aa28f53b63709d2ab4a920bd736b5af05dd7673bda42bd074b9b7513425e65bcbe23742a6e36175312666f2c6407bea5300cc63c76bf6cd234e8d84ba4d89bca240ed7569c972664f0f5f7c0936b7e044a36966d2b3590c38aad45f7719e277c086f449ab5fa888b00205c8b09c66652930bf533e484dd56d0e6d82998ad0148cecfca704ff33763fbf0762654ffb26a97a7a46605f2a9b97da6912f4fc4b7fd74cf29bb4c39aa290fe309961d5fbbdf1982f22b95395320191334e147bc3b5134bdc6fa46ce6093ba9bff1a0943a88546ddb8e126fb07e3ca7b245463ce3d64554db77787b2c45af494335e9e3bfa1f4e0a6a1ff5fadffd
+      modulus_length: 2048
+      not_after: '1689897599'
+      not_before: '1682035200'
+      serial: ecadacff8f918ac3a0a6f2d2448b3207
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ritzenchantress.com
+      validation_type: dv
+    ritzenchantress_com_e62f9_175bb_1697002978_669cb90412cdf3d3293a5f0211657462: 
+      created: '1665466978'
+      domains: 
+        - ritzenchantress.com
+        - mail.ritzenchantress.com
+        - www.ritzenchantress.com
+        - cpanel.ritzenchantress.com
+        - webmail.ritzenchantress.com
+        - webdisk.ritzenchantress.com
+        - cpcontacts.ritzenchantress.com
+        - cpcalendars.ritzenchantress.com
+        - autodiscover.ritzenchantress.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “ritzenchantress.com”
+      id: ritzenchantress_com_e62f9_175bb_1697002978_669cb90412cdf3d3293a5f0211657462
+      is_self_signed: 1
+      issuer.commonName: ritzenchantress.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: e62f957ad38037ead157af50dd3849f06cfee082cb7558a02d0592df9affb654dfdef8b970bd0d9b45bb9834fa5dfa7715a5cda0fd19778f3232098e42b7daa61442bcb96e1d5e02d8716b1e5a071ba6d1c2414d3d0f8ef4f62a0d4bd79b384bc9a19667e670eaab1f108e6299c9a3097519dbabb6c20a6b6bd4af1ca96cd6412832fffdd941076f253a80f95d1502c31ad2731f2818dd0581c0f21cf63bad7444194aa2fe16001308226fdeca905225d801bdd6373b62e682b6500be8caa335ae838152addcb0e3bdb25dc9c071edf99b432ec06ba6439e44a327251f81f61bf45a69d45c4292d04864ba28380c7f8d5d0a1db02cd1b74f06a5b8010ff175bb
+      modulus_length: 2048
+      not_after: '1697002978'
+      not_before: '1665466978'
+      serial: 015efece98
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ritzenchantress.com
+      validation_type: ~
+  key: 
+    cff85_adffd_3d279a8d8d1700459a306bae58470f02: 
+      created: '1682114741'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “ritzenchantress.com” 1682114741.0
+      id: cff85_adffd_3d279a8d8d1700459a306bae58470f02
+      key_algorithm: rsaEncryption
+      modulus: cff85b4e2b5ffc13aa28f53b63709d2ab4a920bd736b5af05dd7673bda42bd074b9b7513425e65bcbe23742a6e36175312666f2c6407bea5300cc63c76bf6cd234e8d84ba4d89bca240ed7569c972664f0f5f7c0936b7e044a36966d2b3590c38aad45f7719e277c086f449ab5fa888b00205c8b09c66652930bf533e484dd56d0e6d82998ad0148cecfca704ff33763fbf0762654ffb26a97a7a46605f2a9b97da6912f4fc4b7fd74cf29bb4c39aa290fe309961d5fbbdf1982f22b95395320191334e147bc3b5134bdc6fa46ce6093ba9bff1a0943a88546ddb8e126fb07e3ca7b245463ce3d64554db77787b2c45af494335e9e3bfa1f4e0a6a1ff5fadffd
+      modulus_length: 2048
+    e62f9_175bb_690006d2c3d67b87bff0ddfdf306e1cb: 
+      created: '1665466978'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “ritzenchantress.com”
+      id: e62f9_175bb_690006d2c3d67b87bff0ddfdf306e1cb
+      key_algorithm: rsaEncryption
+      modulus: e62f957ad38037ead157af50dd3849f06cfee082cb7558a02d0592df9affb654dfdef8b970bd0d9b45bb9834fa5dfa7715a5cda0fd19778f3232098e42b7daa61442bcb96e1d5e02d8716b1e5a071ba6d1c2414d3d0f8ef4f62a0d4bd79b384bc9a19667e670eaab1f108e6299c9a3097519dbabb6c20a6b6bd4af1ca96cd6412832fffdd941076f253a80f95d1502c31ad2731f2818dd0581c0f21cf63bad7444194aa2fe16001308226fdeca905225d801bdd6373b62e682b6500be8caa335ae838152addcb0e3bdb25dc9c071edf99b432ec06ba6439e44a327251f81f61bf45a69d45c4292d04864ba28380c7f8d5d0a1db02cd1b74f06a5b8010ff175bb
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a28ae6b74b7d569b1a718ab915dfa265fa77e85241615a46c71250358003f4e5f16ea2db55b8f2d96dbd653d5766fcae6c93b89fe3937a06a0b3e9e85a273dd25b4bc47297d0cfc0b315f0cc9ca788037b45e2b915384902068c7b42dd645d1b9a9f9d8a61f541027628b9a5e1027bc6c754524da227ca7b212a21ad4fabed04e51b1b267f3587962905ebe45190f0484ef2d139293e156b0e74064f430414d51bed7ceaf86cb1a909cfb3fa238206e8d316d06ee1425e5bc335c1157370a718793d8f26d0d15e8951eb91fd97f496f1ba7449fc338668ce9fec00171534dc415aa0a18f12591739c8c5ccfa0753d10450e932d2f454b3a32ce02d4be4cc6f85: 
+        ritzenchantress_com_a28ae_c6f85_1700002141_354a5e647152c50dd2fe93e9b632472e: ~
+      cff85b4e2b5ffc13aa28f53b63709d2ab4a920bd736b5af05dd7673bda42bd074b9b7513425e65bcbe23742a6e36175312666f2c6407bea5300cc63c76bf6cd234e8d84ba4d89bca240ed7569c972664f0f5f7c0936b7e044a36966d2b3590c38aad45f7719e277c086f449ab5fa888b00205c8b09c66652930bf533e484dd56d0e6d82998ad0148cecfca704ff33763fbf0762654ffb26a97a7a46605f2a9b97da6912f4fc4b7fd74cf29bb4c39aa290fe309961d5fbbdf1982f22b95395320191334e147bc3b5134bdc6fa46ce6093ba9bff1a0943a88546ddb8e126fb07e3ca7b245463ce3d64554db77787b2c45af494335e9e3bfa1f4e0a6a1ff5fadffd: 
+        ritzenchantress_com_cff85_adffd_1689897599_e613ef9072cbac99b7b190b623d10af7: ~
+      e62f957ad38037ead157af50dd3849f06cfee082cb7558a02d0592df9affb654dfdef8b970bd0d9b45bb9834fa5dfa7715a5cda0fd19778f3232098e42b7daa61442bcb96e1d5e02d8716b1e5a071ba6d1c2414d3d0f8ef4f62a0d4bd79b384bc9a19667e670eaab1f108e6299c9a3097519dbabb6c20a6b6bd4af1ca96cd6412832fffdd941076f253a80f95d1502c31ad2731f2818dd0581c0f21cf63bad7444194aa2fe16001308226fdeca905225d801bdd6373b62e682b6500be8caa335ae838152addcb0e3bdb25dc9c071edf99b432ec06ba6439e44a327251f81f61bf45a69d45c4292d04864ba28380c7f8d5d0a1db02cd1b74f06a5b8010ff175bb: 
+        ritzenchantress_com_e62f9_175bb_1697002978_669cb90412cdf3d3293a5f0211657462: ~
+    subject.commonName: 
+      ritzenchantress.com: 
+        ritzenchantress_com_a28ae_c6f85_1700002141_354a5e647152c50dd2fe93e9b632472e: ~
+        ritzenchantress_com_cff85_adffd_1689897599_e613ef9072cbac99b7b190b623d10af7: ~
+        ritzenchantress_com_e62f9_175bb_1697002978_669cb90412cdf3d3293a5f0211657462: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “ritzenchantress.com”: ritzenchantress_com_e62f9_175bb_1697002978_669cb90412cdf3d3293a5f0211657462
+      Cert for “ritzenchantress.com” 1682114741.0: ritzenchantress_com_cff85_adffd_1689897599_e613ef9072cbac99b7b190b623d10af7
+      autodiscover.ritzenchantress.com, cpanel.ritzenchantress.com, cpcalendars.ritzenchantress.com, cpcontacts.ritzenchantress.com, mail.ritzenchantress.com, ritzenchantress.com, webdisk.ritzenchantress.com, webmail.ritzenchantress.com, and www.ritzenchantress.com: ritzenchantress_com_a28ae_c6f85_1700002141_354a5e647152c50dd2fe93e9b632472e
+  key: 
+    friendly_name: 
+      Key for “ritzenchantress.com”: e62f9_175bb_690006d2c3d67b87bff0ddfdf306e1cb
+      Key for “ritzenchantress.com” 1682114741.0: cff85_adffd_3d279a8d8d1700459a306bae58470f02
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      cff85b4e2b5ffc13aa28f53b63709d2ab4a920bd736b5af05dd7673bda42bd074b9b7513425e65bcbe23742a6e36175312666f2c6407bea5300cc63c76bf6cd234e8d84ba4d89bca240ed7569c972664f0f5f7c0936b7e044a36966d2b3590c38aad45f7719e277c086f449ab5fa888b00205c8b09c66652930bf533e484dd56d0e6d82998ad0148cecfca704ff33763fbf0762654ffb26a97a7a46605f2a9b97da6912f4fc4b7fd74cf29bb4c39aa290fe309961d5fbbdf1982f22b95395320191334e147bc3b5134bdc6fa46ce6093ba9bff1a0943a88546ddb8e126fb07e3ca7b245463ce3d64554db77787b2c45af494335e9e3bfa1f4e0a6a1ff5fadffd: cff85_adffd_3d279a8d8d1700459a306bae58470f02
+      e62f957ad38037ead157af50dd3849f06cfee082cb7558a02d0592df9affb654dfdef8b970bd0d9b45bb9834fa5dfa7715a5cda0fd19778f3232098e42b7daa61442bcb96e1d5e02d8716b1e5a071ba6d1c2414d3d0f8ef4f62a0d4bd79b384bc9a19667e670eaab1f108e6299c9a3097519dbabb6c20a6b6bd4af1ca96cd6412832fffdd941076f253a80f95d1502c31ad2731f2818dd0581c0f21cf63bad7444194aa2fe16001308226fdeca905225d801bdd6373b62e682b6500be8caa335ae838152addcb0e3bdb25dc9c071edf99b432ec06ba6439e44a327251f81f61bf45a69d45c4292d04864ba28380c7f8d5d0a1db02cd1b74f06a5b8010ff175bb: e62f9_175bb_690006d2c3d67b87bff0ddfdf306e1cb

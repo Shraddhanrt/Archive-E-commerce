@@ -1,0 +1,525 @@
+# Webalizer V2.23-08 Incremental Data - 12/30/2022 04:56:55
+2022 12 30 4 56 55
+229 229 6 194 0 0 58278812 2 1 1
+1 1 189 23 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+193 193 1438812 2 2 1
+35 35 56821685 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 18315 1 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+6 6 121351 0
+193 193 1487710 2
+1 1 8124 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 13771 0
+6 6 76705 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 66669 0
+14 14 56452958 0
+3 3 51524 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+229
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/ritzench/resources/views/site/testimonials.blade.php
+0 1 0 10941 0 0
+/home/ritzench/app/Console/Kernel.php
+0 1 0 739 0 0
+/home/ritzench/resources/views/mail/MailForgotPassword.blade.php
+0 1 0 10533 0 0
+/home/ritzench/resources/views/site/orderstatus.blade.php
+0 1 0 12796 0 0
+/home/ritzench/app/Http/Controllers/TestimonialController.php
+0 1 0 3788 0 0
+/home/ritzench/resources/views/admin/customers.blade.php
+0 1 0 10532 0 0
+/home/ritzench/resources/lang/en/pagination.php
+0 1 0 553 0 0
+/home/ritzench/resources/views/site/resetpassword.blade.php
+0 1 0 3603 0 0
+/home/ritzench/resources/views/profile/edit.blade.php
+0 1 0 10907 0 0
+/home/ritzench/resources/views/site/blogs.blade.php
+0 1 0 5742 0 0
+/home/ritzench/app/Http/Controllers/PolicyController.php
+0 1 0 1135 0 0
+/home/ritzench/resources/views/admin/courier/manage.blade.php
+0 1 0 15706 0 0
+/home/ritzench/resources/views/auth/passwords/email.blade.php
+0 1 0 2572 0 0
+/home/ritzench/app/Models/ShippingCostCalculate.php
+0 9 0 62435 0 0
+/home/ritzench/storage/logs/paypal.log
+0 2 0 703 0 0
+/home/ritzench/app/Http/Controllers/ProductController.php
+0 2 0 24651 0 0
+/home/ritzench/resources/views/admin/product/addphoto.blade.php
+0 1 0 4965 0 0
+/home/ritzench/resources/views/pages/tables.blade.php
+0 1 0 58581 0 0
+/home/ritzench/app/Mail/MailForgotPassword.php
+0 1 0 703 0 0
+/home/ritzench/app/Http/Middleware/RedirectIfAuthenticated.php
+0 1 0 909 0 0
+/home/ritzench/resources/views/layouts/navbars/navs/guest.blade.php
+0 1 0 0 0 0
+/home/ritzench/app/Models/Catagory.php
+0 1 0 190 0 0
+/home/ritzench/resources/css/app.css
+0 1 0 0 0 0
+/home/ritzench/app/Mail/MailTrackingCode.php
+0 1 0 716 0 0
+/home/ritzench/resources/views/site/home.blade.php
+0 2 0 85885 0 0
+/home/ritzench/app/Models/User.php
+0 1 0 957 0 0
+/home/ritzench/resources/views/admin/order/paidorder.blade.php
+0 1 0 10915 0 0
+/home/ritzench/app/Http/.DS_Store
+0 1 0 6150 0 0
+/home/ritzench/app/Http/Controllers/CategoryController.php
+0 1 0 2408 0 0
+/home/ritzench/resources/views/customer/shippingedit.blade.php
+0 1 0 11619 0 0
+/home/ritzench/app/Http/Controllers/Controller.php
+0 1 0 374 0 0
+/home/ritzench/app/Http/Controllers/UserController.php
+0 1 0 424 0 0
+/home/ritzench/app/Mail/MailForFollowBack.php
+0 1 0 706 0 0
+/home/ritzench/app/Models/ShippingCostCalculatelatest.php
+0 1 0 7068 0 0
+/home/ritzench/app/Mail/Mail.php
+0 1 0 681 0 0
+/home/ritzench/app/Http/Middleware/TrustProxies.php
+0 1 0 677 0 0
+/home/ritzench/resources/views/admin/diet/manage.blade.php
+0 1 0 5606 0 0
+/home/ritzench/resources/views/site/contact.blade.php
+0 1 0 12069 0 0
+/home/ritzench/resources/views/pages/upgrade.blade.php
+0 1 0 27699 0 0
+/home/ritzench/resources/views/site/paypalstatus.blade.php
+0 1 0 37 0 0
+/home/ritzench/resources/lang/en/passwords.php
+0 1 0 766 0 0
+/home/ritzench/resources/sass/_variables.scss
+0 1 0 138 0 0
+/home/ritzench/resources/views/admin/policy/manage.blade.php
+0 1 0 5599 0 0
+/home/ritzench/app/Http/Controllers/AgentController.php
+0 1 0 588 0 0
+/home/ritzench/resources/views/admin/courier/modifycourier.blade.php
+0 1 0 7364 0 0
+/home/ritzench/app/Models/Testimonial.php
+0 1 0 193 0 0
+/home/ritzench/resources/views/admin/coupon/manage.blade.php
+0 1 0 10089 0 0
+/home/ritzench/resources/views/template.blade.php
+0 1 0 82694 0 0
+/home/ritzench/resources/views/customer/profile.blade.php
+0 1 0 6335 0 0
+/home/ritzench/resources/views/admin/product/edit.blade.php
+0 2 0 17382 0 0
+/home/ritzench/app/testing
+0 1 0 4241 1 0
+/home/ritzench/resources/lang/en/validation.php
+0 1 0 8699 0 0
+/home/ritzench/routes/web.php
+0 6 0 108465 0 0
+/home/ritzench/routes/web1.php
+0 1 0 2248 0 0
+/home/ritzench/app/Providers/RouteServiceProvider.php
+0 1 0 1743 0 0
+/home/ritzench/resources/views/auth/login.blade.php
+0 1 0 4116 0 0
+/home/ritzench/app/Http/Requests/ProfileRequest.php
+0 1 0 720 0 0
+/home/ritzench/resources/views/site/checkout1.blade.php
+0 1 0 45798 0 0
+/home/ritzench/resources/views/mail/owner.blade.php
+0 1 0 10072 0 0
+/home/ritzench/routes/console.php
+0 1 0 611 0 0
+/home/ritzench/app/Http/Middleware/TrustHosts.php
+0 1 0 392 0 0
+/home/ritzench/resources/views/admin/notice/managepopupbanner.blade.php
+0 1 0 3949 0 0
+/home/ritzench/resources/views/admin/order/invoice.blade.php
+0 1 0 14552 0 0
+/home/ritzench/app/Http/Controllers/RegisterController.php
+0 1 0 2036 0 0
+/home/ritzench/app/Http/Kernel.php
+0 1 0 2647 0 0
+/home/ritzench/resources/views/layouts/footers/guest.blade.php
+0 1 0 114 0 0
+/home/ritzench/app/Rules/CurrentPasswordCheckRule.php
+0 1 0 673 0 0
+/home/ritzench/app/Providers/EventServiceProvider.php
+0 1 0 757 0 0
+/home/ritzench/resources/sass/app.scss
+0 1 0 158 0 0
+/home/ritzench/.env
+0 2 0 3688 0 0
+/home/ritzench/resources/views/admin/blog/edit.blade.php
+0 1 0 5367 0 0
+/home/ritzench/resources/views/site/faq.blade.php
+0 1 0 4058 0 0
+/home/ritzench/resources/views/auth/passwords/confirm.blade.php
+0 1 0 2105 0 0
+/home/ritzench/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+0 1 0 383 0 0
+/home/ritzench/resources/views/site/blogdetail.blade.php
+0 1 0 12280 0 0
+/home/ritzench/resources/views/layouts/navbars/sidebar.blade.php
+0 1 0 9439 0 0
+/home/ritzench/resources/views/layouts/navbars/navs/auth.blade.php
+0 1 0 3201 0 0
+/home/ritzench/resources/views/site/policy.blade.php
+0 1 0 1544 0 0
+/home/ritzench/app/Models/Customer.php
+0 1 0 1035 0 0
+/home/ritzench/resources/views/admin/faq/manage.blade.php
+0 1 0 5608 0 0
+/home/ritzench/resources/views/layouts/footers/auth.blade.php
+0 1 0 71 0 0
+/home/ritzench/app/Http/Middleware/TrimStrings.php
+0 1 0 400 0 0
+/home/ritzench/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 1 0 689 0 0
+/home/ritzench/resources/views/admin/diet/edit.blade.php
+0 1 0 3971 0 0
+/home/ritzench/config/app.php
+0 3 0 24290 0 0
+/home/ritzench/app/Http/Controllers/Auth/RegisterController.php
+0 1 0 2036 0 0
+/home/ritzench/resources/views/site/dietplan.blade.php
+0 1 0 1998 0 0
+/home/ritzench/resources/js/app.js
+0 1 0 1139 0 0
+/home/ritzench/resources/views/mail/booker.blade.php
+0 1 0 10021 0 0
+/home/ritzench/app/Models/Country.php
+0 1 0 189 0 0
+/home/ritzench/storage/laravel.log
+0 2 0 7340032 0 0
+/home/ritzench/storage/logs/laravel.log
+0 2 0 49035648 0 0
+/home/ritzench/app/Http/Controllers/Auth/ConfirmPasswordController.php
+0 1 0 1064 0 0
+/home/ritzench/resources/js/bootstrap.js
+0 1 0 949 0 0
+/home/ritzench/resources/views/pages/maps.blade.php
+0 1 0 23043 0 0
+/home/ritzench/app/Models/Cart.php
+0 1 0 186 0 0
+/home/ritzench/resources/views/site/products.blade.php
+0 1 0 30812 0 0
+/home/ritzench/resources/views/admin/notice/managenotics.blade.php
+0 1 0 4893 0 0
+/home/ritzench/resources/views/admin/product/manage.blade.php
+0 2 0 20262 0 0
+/home/ritzench/resources/views/dashboard.blade.php
+0 1 0 18668 0 0
+/home/ritzench/resources/views/site/story.blade.php
+0 1 0 8138 0 0
+/home/ritzench/app/Http/Controllers/DietController.php
+0 1 0 3817 0 0
+/home/ritzench/resources/views/admin/order/manage.blade.php
+0 1 0 10551 0 0
+/home/ritzench/resources/views/auth/verify.blade.php
+0 1 0 1499 0 0
+/home/ritzench/resources/views/admin/blog/manage.blade.php
+0 1 0 5680 0 0
+/home/ritzench/app/Http/Controllers/OrderController.php
+0 1 0 6735 0 0
+/home/ritzench/resources/views/site/news.blade.php
+0 1 0 2566 0 0
+/home/ritzench/app/Models/Blog.php
+0 1 0 186 0 0
+/home/ritzench/resources/views/mail/sendtrackingcode.blade.php
+0 1 0 10395 0 0
+/home/ritzench/app/Models/Banner.php
+0 1 0 188 0 0
+/home/ritzench/resources/views/admin/order/confirm.blade.php
+0 1 0 15748 0 0
+/home/ritzench/resources/views/customer/orderhistory.blade.php
+0 1 0 13460 0 0
+/home/ritzench/resources/views/admin/testimonial/manage.blade.php
+0 1 0 5705 0 0
+/home/ritzench/resources/views/layouts/app2.blade.php
+0 1 0 1936 0 0
+/home/ritzench/app/Http/Middleware/VerifyCsrfToken.php
+0 1 0 337 0 0
+/home/ritzench/resources/views/admin/order/orderdetail.blade.php
+0 1 0 16698 0 0
+/home/ritzench/resources/views/admin/order/unpaidorder.blade.php
+0 1 0 10803 0 0
+/home/ritzench/resources/views/mail/MailForFollowBack.blade.php
+0 1 0 11869 0 0
+/home/ritzench/app/Http/Controllers/Auth/VerificationController.php
+0 1 0 1172 0 0
+/home/ritzench/app/Http/Controllers/Auth/ResetPasswordController.php
+0 1 0 874 0 0
+/home/ritzench/resources/views/auth/register.blade.php
+0 1 0 6763 0 0
+/home/ritzench/app/Models/Product.php
+0 1 0 189 0 0
+/home/ritzench/app/Models/Faq.php
+0 1 0 185 0 0
+/home/ritzench/app/Http/Controllers/NoticesController.php
+0 1 0 2498 0 0
+/home/ritzench/app/Models/State.php
+0 1 0 187 0 0
+/home/ritzench/resources/views/admin/faq/edit.blade.php
+0 1 0 5072 0 0
+/home/ritzench/app/Http/Controllers/Auth/LoginController.php
+0 1 0 1042 0 0
+/home/ritzench/app/Models/Order.php
+0 1 0 187 0 0
+/home/ritzench/resources/views/admin/faq/add.blade.php
+0 1 0 4794 0 0
+/home/ritzench/app/Http/Requests/UserRequest.php
+0 1 0 931 0 0
+/home/ritzench/resources/lang/en/auth.php
+0 1 0 694 0 0
+/home/ritzench/routes/channels.php
+0 1 0 576 0 0
+/home/ritzench/resources/views/admin/testimonial/add.blade.php
+0 1 0 4183 0 0
+/home/ritzench/resources/views/admin/testimonial/edit.blade.php
+0 1 0 4431 0 0
+/home/ritzench/resources/views/site/codorderstatus.blade.php
+0 1 0 14625 0 0
+/home/ritzench/resources/views/site/confirm.blade.php
+0 1 0 20105 0 0
+/home/ritzench/resources/views/admin/blog/add.blade.php
+0 1 0 5048 0 0
+/home/ritzench/app/Providers/AppServiceProvider.php
+0 1 0 431 0 0
+/home/ritzench/resources/views/auth/passwords/reset.blade.php
+0 1 0 3786 0 0
+/home/ritzench/app/Models/FoodOrder.php
+0 1 0 191 0 0
+/home/ritzench/resources/views/site/cart.blade.php
+0 1 0 23050 0 0
+/home/ritzench/app/Http/Controllers/CouponController.php
+0 1 0 3749 0 0
+/home/ritzench/app/Models/Productphoto.php
+0 1 0 194 0 0
+/home/ritzench/app/Providers/AuthServiceProvider.php
+0 1 0 643 0 0
+/home/ritzench/resources/views/site/invoice.blade.php
+0 1 0 11962 0 0
+/home/ritzench/app/Http/Controllers/HomeController.php
+0 1 0 5493 0 0
+/home/ritzench/resources/views/site/login.blade.php
+0 1 0 8793 0 0
+/home/ritzench/app/Http/Controllers/CustomerController.php
+0 1 0 13682 0 0
+/home/ritzench/app/.DS_Store
+0 1 0 6149 0 0
+/home/ritzench/app/Models/ShippingCostCalculate1.php
+0 1 0 7057 0 0
+/home/ritzench/app/Http/Controllers/FaqController.php
+0 1 0 2546 0 0
+/home/ritzench/resources/views/site/permissiondenied.blade.php
+0 1 0 1868 0 0
+/home/ritzench/app/Models/Shipping.php
+0 1 0 190 0 0
+/home/ritzench/resources/views/site/template.blade.php
+0 1 0 63813 0 0
+/home/ritzench/resources/views/layouts/footers/nav.blade.php
+0 1 0 0 0 0
+/home/ritzench/app/Models/Newsletter.php
+0 1 0 192 0 0
+/home/ritzench/resources/views/users/
+0 1 0 23947 0 0
+/home/ritzench/resources/views/admin/catagory/manage.blade.php
+0 1 0 6640 0 0
+/home/ritzench/resources/views/site/productdetail.blade.php
+0 1 0 65046 0 0
+/home/ritzench/app/Http/Requests/PasswordRequest.php
+0 1 0 1038 0 0
+/home/ritzench/app/Http/Controllers/SiteController.php
+0 4 0 93920 0 0
+/home/ritzench/app/Models/Coupon.php
+0 1 0 224 0 0
+/home/ritzench/resources/views/admin/coupon/edit.blade.php
+0 1 0 6794 0 0
+/home/ritzench/app/Models/Dietplan.php
+0 1 0 190 0 0
+/home/ritzench/app/Http/Middleware/EncryptCookies.php
+0 1 0 324 0 0
+/home/ritzench/resources/views/customer/buyeredit.blade.php
+0 1 0 12703 0 0
+/home/ritzench/resources/views/welcome.blade.php
+0 1 0 951 0 0
+/home/ritzench/app/Exceptions/Handler.php
+0 1 0 865 0 0
+/home/ritzench/app/Models/Policy.php
+0 1 0 188 0 0
+/home/ritzench/resources/views/customer/passwordchange.blade.php
+0 1 0 4057 0 0
+/home/ritzench/app/Http/Middleware/Authenticate.php
+0 1 0 490 0 0
+/home/ritzench/resources/views/blogdetail.blade.php
+0 1 0 12280 0 0
+/home/ritzench/app/Http/Controllers/ProfileController.php
+0 1 0 1631 0 0
+/home/ritzench/app/Http/Controllers/BlogController.php
+0 1 0 4855 0 0
+/home/ritzench/resources/views/layouts/headers/cards.blade.php
+0 1 0 5180 0 0
+/home/ritzench/app/Http/Controllers/PayPalController.php
+0 1 0 6114 0 0
+/home/ritzench/resources/views/users/partials/header.blade.php
+0 1 0 730 0 0
+/home/ritzench/app/Console/Commands/CompleteRegisterCron.php
+0 1 0 853 0 0
+/home/ritzench/resources/js/components/ExampleComponent.vue
+0 1 0 552 0 0
+/home/ritzench/resources/views/layouts/app.blade.php
+0 1 0 2139 0 0
+/home/ritzench/app/Mail/Mail1.php
+0 1 0 672 0 0
+/home/ritzench/resources/views/site/checkout.blade.php
+0 4 0 157086 0 0
+/home/ritzench/routes/api.php
+0 1 0 589 0 0
+/home/ritzench/storage/app2.php
+0 1 0 8110 0 0
+/home/ritzench/app/Models/Agent.php
+0 1 0 993 0 0
+/home/ritzench/resources/views/layouts/navbars/navbar.blade.php
+0 1 0 131 0 0
+/home/ritzench/app/Http/Controllers/CheckoutController.php
+0 6 0 93060 0 0
+/home/ritzench/resources/views/admin/product/add.blade.php
+0 2 0 13323 0 0
+/home/ritzench/resources/views/customer/dashboard.blade.php
+0 1 0 4798 0 0
+/home/ritzench/resources/views/layouts/headers/guest.blade.php
+0 1 0 709 0 0
+/home/ritzench/resources/views/pages/icons.blade.php
+0 1 0 60727 0 0
+/home/ritzench/resources/views/admin/diet/add.blade.php
+0 1 0 3775 0 0
+/home/ritzench/app/Models/Notice.php
+0 1 0 188 0 0
+/home/ritzench/app/Providers/BroadcastServiceProvider.php
+0 1 0 401 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.123.223.221
+0 18 18 56519627 0 0
+-
+150.107.107.5
+0 1 1 18315 0 0
+-
+45.123.223.194
+0 9 9 211582 0 0
+-
+45.123.223.245
+0 3 3 51524 0 0
+-
+150.107.107.12
+0 8 8 90476 0 0
+-
+150.107.107.6
+0 190 190 1387288 1 1671774503
+/home/ritzench/resources/views/users/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+150.107.107.5
+0 1 1 18315 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+ritzench
+0 229 229 58278812 1 1671774503
+# End Of Table - usernames

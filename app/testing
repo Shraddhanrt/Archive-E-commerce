@@ -1,0 +1,114 @@
+ <div>
+                                            <hr />
+                                            <ul>
+                                                <li><input type="radio" name="paymentmethod" value="online" required>Online Payment</li>
+                                                <div class="guarantee__safe--checkout">
+                                                    <!-- <h5 class="guarantee__safe--checkout__title">Guaranteed Safe Checkout</h5> -->
+                                                    <img class="guarantee__safe--checkout__img" src="{{ asset('site/assets/img/other/onlinepayment.jpg') }}" alt="Payment Image" style="margin-top: 5px;" width="200">
+                                                </div>
+                                                <li><input type="radio" name="paymentmethod" value="cod" required> Cash on Delivery</li>
+                                                <img class="guarantee__safe--checkout__img" src="{{ asset('site/images/cod.jpg') }}" alt="Payment Image" width="100" style="margin-top: 5px;">
+                                            </ul>
+                                        </div>
+
+
+                                        <!-- $domain = "https://demo.connect.easyparcel.my/?ac=";
+
+$action = "EPRateCheckingBulk";
+$postparam = array(
+'api'	=> 'EP-K2bSIDUPZ',
+'bulk'	=> array(
+array(
+'pick_code'	=> '13700',
+'pick_state'	=> 'png',
+'pick_country'	=> 'MY',
+'send_code'	=>  $request->input('postalcode'),
+'send_state'	=> $request->input('state'),
+'send_country'	=> $request->input('country'),
+'weight'	=> $total_weight,
+'width'	=> '0',
+'length'	=> '0',
+'height'	=> '0',
+'date_coll'	=> date('Y-m-d'),
+),
+),
+'exclude_fields'	=> array(
+'rates.*.pickup_point',
+)
+);
+
+$url = $domain.$action;
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($postparam));
+curl_setopt($ch, CURLOPT_HEADER, 0);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+ob_start(); 
+$return = curl_exec($ch);
+ob_end_clean();
+curl_close($ch);
+$json = json_decode($return);
+dd($json); -->
+
+
+array(4) {
+   [0]=>
+   array(8) {
+     ["logo"]=>
+     ["price"]=>
+     int(649)
+     ["currency"]=>
+     string(3) ""
+     ["availability"]=>
+     string(7) "instock"
+   },
+   [1]=>
+   array(8) {
+     ["logo"]=>
+     ["price"]=>
+     int(849)
+     ["currency"]=>
+     string(3) ""
+     ["availability"]=>
+     string(7) "instock"
+   },
+   [2]=>
+   array(8) {
+   ...
+   },
+   [3]=>
+   array(8) {
+   ...
+   }
+
+ }
+
+
+const openEls = document.querySelectorAll("[data-open]"),
+    closeEls = document.querySelectorAll("[data-close]"),
+    isVisible = "is-visible";
+for (const el of openEls) el.addEventListener("click", (function() {
+    const modalId = this.dataset.open;
+    document.getElementById(modalId).classList.add(isVisible)
+}));
+for (const el of closeEls) el.addEventListener("click", (function() {
+    this.parentElement.parentElement.parentElement.classList.remove(isVisible)
+}));
+
+const newsletterPopup = function() {
+    let newsletterWrapper = document.querySelector(".newsletter__popup"),
+        newsletterCloseButton = document.querySelector(".newsletter__popup--close__btn");
+    newsletterWrapper && window.addEventListener("load", event => {
+        setTimeout((function() {
+            document.body.classList.add("overlay__active"), newsletterWrapper.classList.add("newsletter__show"), document.addEventListener("click", (function(event) {
+                event.target.closest(".newsletter__popup--inner") || (document.body.classList.remove("overlay__active"), newsletterWrapper.classList.remove("newsletter__show"))
+            })), newsletterCloseButton.addEventListener("click", (function() {
+                document.body.classList.remove("overlay__active"), newsletterWrapper.classList.remove("newsletter__show")
+            })), dontShowPopup.addEventListener("click", (function() {
+                dontShowPopup.checked ? localStorage.setItem("newsletter__show", !0) : localStorage.removeItem("newsletter__show")
+            }))
+        }), 3e3)
+    })
+};
+newsletterPopup();

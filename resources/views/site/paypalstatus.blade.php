@@ -1,0 +1,1 @@
+<h1> Thank you for your paymanet</h1>

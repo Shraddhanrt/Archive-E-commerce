@@ -1,0 +1,826 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202309 will be lost/reset.
+# Last config file used to build this data file was /home/ritzench/tmp/awstats/ssl/awstats.ritzenchantress.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2713                
+POS_VISITOR 14599               
+POS_DAY 27871               
+POS_DOMAIN 3681                
+POS_LOGIN 4143                
+POS_ROBOT 4298                
+POS_WORMS 5041                
+POS_EMAILSENDER 5172                
+POS_EMAILRECEIVER 5315                
+POS_SESSION 28057               
+POS_SIDER 28267               
+POS_FILETYPES 5450                
+POS_DOWNLOADS 5728                
+POS_OS 5776                
+POS_BROWSER 6056                
+POS_SCREENSIZE 7018                
+POS_UNKNOWNREFERER 7092                
+POS_UNKNOWNREFERERBROWSER 7352                
+POS_ORIGIN 7534                
+POS_SEREFERRALS 7680                
+POS_PAGEREFS 7911                
+POS_SEARCHWORDS 8347                
+POS_KEYWORDS 8499                
+POS_MISC 2375                
+POS_ERRORS 8558                
+POS_CLUSTER 3999                
+POS_SIDER_404 8753                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230904140941 21387 10091581 33525376829991
+FirstTime 20230901000242
+LastTime 20230904140916
+LastUpdate 20230904143032 21387 0 21387 0 0
+TotalVisits 304                 
+TotalUnique 281                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 302                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 416 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 372 219741455 88 129 11554006
+1 13 250 110964774 26 276 57990384
+2 16 451 174234706 24 30 932553
+3 21 524 237091655 36 120 7786498
+4 60 1367 640149301 66 427 60354863
+5 65 1536 657075896 71 118 8051959
+6 75 1554 680497596 86 182 20912968
+7 36 833 340520950 33 101 7731672
+8 96 3526 1505766839 100 326 25914684
+9 149 4156 1783766513 169 721 96206830
+10 131 3819 1783875959 163 453 39047188
+11 92 2745 1156875373 106 174 10412052
+12 65 1726 648251137 85 529 100632305
+13 50 1384 588939020 61 148 1888216
+14 20 518 208262501 43 118 29553971
+15 11 446 277818503 26 63 8009319
+16 17 586 252899190 25 256 6253387
+17 33 264 66689970 47 121 2358739
+18 66 535 201518911 59 171 45972737
+19 9 160 83766172 49 163 81997984
+20 3 113 26003036 41 101 24145223
+21 8 13 1209495 10 17 3797234
+22 3 3 128991 11 19 1165373
+23 7 177 128977753 27 34 1636642
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+sg 490 14115 6322799190
+my 405 9767 4022929341
+us 65 1173 410230166
+in 40 747 438759103
+ru 21 473 272826052
+au 14 449 128615477
+vn 13 169 91016835
+kr 5 107 67797895
+gb 3 3 577211
+de 2 2 56310
+se 1 1 42990
+pl 1 1 22788
+tw 1 47 16598261
+ie 0 4 2754077
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Googlebot/ 349 156933365 20230904131230 9
+bot[\s_+:,\.\;\/\\-] 72 2534963 20230904121507 3
+AhrefsBot/ 67 1181969 20230904121502 18
+SemrushBot/ 46 1384480 20230904125951 17
+Googlebot\-Image/ 42 3625694 20230904135034 0
+bingbot/ 35 923025 20230904095457 3
+facebookexternalhit/ 22 8877088 20230904085720 0
+unknown 19 456 20230904114416 19
+crawl 15 259430 20230902002021 1
+DotBot/ 12 2312581 20230901192651 2
+Applebot/ 10 2077393 20230903112901 4
+YandexBot/ 3 72 20230903145649 3
+no_user_agent 3 556687 20230903110038 0
+feed 2 48 20230904034913 2
+Barkrowler 2 43028 20230902083110 1
+curl 1 557879 20230901100901 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 883 8370993 0 0
+png 16503 9646737226 0 0
+jpeg 2057 997784575 0 0
+woff 5 51100 0 0
+woff2 25 551384 0 0
+ttf 5 50575 0 0
+jpg 5516 1078359831 0 0
+Unknown 806 17011428 0 0
+html 220 7663834 0 0
+js 1038 18444750 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+ios_iphone 13046 515
+macosx15 372 67
+androidnougat 53 20
+macosx11 100 1
+linux 111 12
+android 11004 332
+win7 10 2
+Unknown 14 4
+win10 431 16
+macosx12 1 1
+android10 1703 87
+androidoreo 100 1
+win8 1 1
+androidpie 112 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+firefox40.0 1 1
+safari15.6.1 161 36
+chrome116.0.0.0 10471 378
+chrome114.0.0.0 6 6
+mozilla 3 3
+chrome115.0.5790.139 100 1
+iphone 10794 330
+chrome111.0.5563.116 47 1
+chrome92.0.4515.166 112 2
+Unknown 12 2
+chrome58.0.3029.110 1 1
+chrome103.0.5060.129 205 4
+chrome42.0.2312.90 1 1
+safari16.1 521 100
+chrome59.0.3071.125 52 19
+safari16.0 2 0
+chrome115.0.0.0 259 15
+safari16.3 114 2
+chrome51.0.2704.103 1 1
+chrome115.0.5790.168 115 2
+chrome110.0.5481.65 334 17
+safari 960 66
+chrome91.0.4472.114 2 2
+chrome115.0.5790.170 47 1
+safari16.6 572 11
+chrome108.0.0.0 2 2
+safari10.1.2 1 1
+chrome88.0.4324.93 396 9
+msie11.0 1 1
+chrome102.0.5005.182 8 1
+chrome29.0.1547.66 8 0
+safari14.0.3 1 1
+chrome105.0.0.0 1 1
+chrome114.0.5735.196 112 2
+safari16.5 96 6
+chrome110.0.5481.153 100 1
+chrome91.0.4472.134 120 4
+chrome83.0.4103.97 5 5
+chrome115.0.5790.166 1212 22
+chrome103.0.0.0 100 1
+chrome117.0.0.0 1 1
+chrome60.0.3112.107 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WhatsApp/2.23.16.76_A 20230904084427
+WhatsApp/2.23.16.78_i 20230904054811
+cortex/1.0 20230904070223
+Mozilla/5.0_(compatible;_Yeti/1.1;__https://naver.me/spd) 20230903182351
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.23.16.78_i 20230904054811
+WhatsApp/2.23.16.76_A 20230904084427
+cortex/1.0 20230904070223
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 114 128
+From1 0 0
+From2 23 25
+From3 264 264
+From4 660 26641
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com_sg 2 2
+www_google_com_my 1 1
+www_google_com 19 21
+www_google_com_au 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+https://l.instagram.com 144 144
+https://linktr.ee 63 63
+https://linktr.ee 25 25
+https://l.instagram.com 10 10
+https://www.instagram.com 6 6
+http://m.facebook.com 4 4
+http://m.facebook.com 4 4
+https://ap.gateway.mastercard.com 3 3
+https://www.instagram.com 3 3
+https://www.paypal.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+404 272 573498
+419 14 55606
+403 368 451043
+301 221 152712
+206 2339 450442497
+302 409 75140
+405 4 913960
+500 54 9976663
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 96
+/collections/a-style-by-ritz 2 -
+/cart/promotion 1 -
+/cart/delete/12523 1 https://ritzenchantress.com/cartsingle/26
+/cart/delete/10537 1 https://www.ritzenchantress.com/cartsingle/87
+/cart/delete/9722 1 https://ritzenchantress.com/cartsingle/53
+/cart/delete/11488 1 https://ritzenchantress.com/cartsingle/44
+/apple-touch-icon-precomposed.png 1 -
+/.well-known/apple-app-site-association 1 -
+/cart/delete/12474 1 https://www.ritzenchantress.com/cartsingle/80
+/checkout 2 https://www.ritzenchantress.com/carts
+/collections/feature-on-homepage/products/dream-bod-full-set 1 -
+/cart/delete/11016 1 https://www.ritzenchantress.com/cartsingle/68
+/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js 41 https://www.ritzenchantress.com/manage/orders
+/collections/feature-on-homepage/products/ritz-candle 1 -
+/cart/delete/11688 1 https://www.ritzenchantress.com/cartsingle/49
+/cart/delete/11370 1 https://ritzenchantress.com/cartsingle/69
+/collections/feature-on-homepage/products/skincare-promo 1 -
+/cart/remove_item_quantity 2 -
+/cart/delete/12571 1 https://www.ritzenchantress.com/product/beaute-beetz-Qvur
+/cart/delete/11691 1 https://ritzenchantress.com/cartsingle/94
+/cart/delete/11047 1 https://www.ritzenchantress.com/cartsingle/75
+/cart/delete/11491 1 https://www.ritzenchantress.com/cartsingle/94
+/cart/delete/12497 1 https://ritzenchantress.com/cartsingle/59
+/collections/feature-on-homepage/products/birthday-special 1 -
+/my-account.html 1 -
+/checkout/payments 1 -
+/docs/_sidebar.md 1 -
+/cart/delete/11267 1 https://www.ritzenchantress.com/cartsingle/79
+/.well-known/traffic-advice 1 -
+/cart/delete/12329 1 https://ritzenchantress.com/cartsingle/80
+/product-details.html 2 https://www.ritzenchantress.com/carts
+/cart/delete/10359 1 https://www.ritzenchantress.com/cartsingle/96
+/cart/delete/11284 1 https://ritzenchantress.com/cartsingle/27
+/loginn 1 -
+/collections/feature-on-homepage/products/super-set-promo 1 -
+/index.html 1 https://www.ritzenchantress.com/carts
+/cart/delete/11709 1 https://ritzenchantress.com/cartsingle/97
+/cart/delete/12333 1 https://ritzenchantress.com/cartsingle/87
+/cart/delete/11258 1 https://ritzenchantress.com/cartsingle/17
+/cart/delete/11247 1 https://www.ritzenchantress.com/cartsingle/97
+/cart/delete/12213 1 https://ritzenchantress.com/cartsingle/52
+/cart/delete/11637 1 https://ritzenchantress.com/cartsingle/80
+/site/uploads/products/9721b8dd558082e9c9b18afe3630d12ff232c69f.PNG 1 -
+/cart/delete/11492 1 https://www.ritzenchantress.com/cartsingle/86
+/cart/delete/11189 1 https://ritzenchantress.com/cartsingle/52
+/cart/delete/10943 1 https://www.ritzenchantress.com/cartsingle/91
+/cart/delete/11326 1 https://www.ritzenchantress.com/cartsingle/96
+/cart/delete/11571 1 https://ritzenchantress.com/cartsingle/85
+/cart/delete/12419 2 https://www.ritzenchantress.com/cartsingle/86
+/site/uploads/products/47ea0eb778495c37817ce6e3c8e3e30a7e9ed836.jpg 1 -
+/cart/delete/12403 1 https://ritzenchantress.com/cartsingle/67
+/cart/delete/11182 1 https://ritzenchantress.com/cartsingle/80
+/cart/delete/11164 1 https://ritzenchantress.com/cartsingle/46
+/cart/delete/12059 1 https://www.ritzenchantress.com/cartsingle/86
+/checkout/detail 1 -
+/sitemap.xml 1 -
+/cart/delete/12231 1 https://www.ritzenchantress.com/cartsingle/96
+/cart/delete/12217 1 https://www.ritzenchantress.com/cartsingle/96
+/cart/delete/11144 1 https://ritzenchantress.com/cartsingle/15
+/products/21-days-challenge 1 -
+/cart/delete/11615 1 https://ritzenchantress.com/cartsingle/87
+/assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js 41 https://www.ritzenchantress.com/manage/orders
+/cart/delete/11512 1 https://www.ritzenchantress.com/cartsingle/68
+/cart/delete/11591 1 https://www.ritzenchantress.com/cartsingle/66
+/cart/delete/11477 1 https://www.ritzenchantress.com/cartsingle/102
+/collections/feature-on-homepage/products/x-mas-sale-xflab-cream 1 -
+/cart/delete/11579 1 https://ritzenchantress.com/cartsingle/66
+/site/uploads/products/19fc795daa8c1965964bc02babe050d0eef78237.jpeg 1 -
+/cart/delete/11517 1 https://www.ritzenchantress.com/cartsingle/100
+/collections/feature-on-homepage/products/hey-baby-water-bottle 1 -
+/assets/vendor/js-cookie/js.cookie.js 41 https://www.ritzenchantress.com/manage/orders
+/cart/delete/11694 1 https://www.ritzenchantress.com/cartsingle/87
+/.well-known/assetlinks.json 9 -
+/assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js 41 https://www.ritzenchantress.com/manage/orders
+/cart/delete/11588 1 https://ritzenchantress.com/cartsingle/84
+/collections/feature-on-homepage/products/xflab-promo 1 -
+/cart/delete/11901 1 https://ritzenchantress.com/cartsingle/18
+/apple-app-site-association 1 -
+/cart/delete/12493 1 https://ritzenchantress.com/cartsingle/81
+/cart/delete/12021 1 https://ritzenchantress.com/cartsingle/69
+/cart/delete/12416 1 https://ritzenchantress.com/cartsingle/85
+/cart/delete/10941 1 https://www.ritzenchantress.com/cartsingle/94
+/wp-cron.php 1 -
+/cart/delete/11322 1 https://ritzenchantress.com/cartsingle/92
+/tos 1 -
+/cart/delete/11495 1 https://ritzenchantress.com/cartsingle/80
+/courier/argon/img/theme/profile-cover.jpg 4 https://www.ritzenchantress.com/courier/manage/1515
+/cart/delete/12486 1 https://ritzenchantress.com/checkout
+/cart/delete/10643 1 https://ritzenchantress.com/cartsingle/15
+/a/contact-form 1 -
+/a/help-center 1 -
+/cart/delete/12404 1 https://www.ritzenchantress.com/cartsingle/94
+/staff 1 -
+/cart/delete/11282 1 https://ritzenchantress.com/cartsingle/51
+/collections/feature-on-homepage/products/kickstart-duo- 1 -
+/apple-touch-icon.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 302
+42.60.24.47 38 424 148509407 20230904093001
+113.210.49.56 38 48 889214 20230904135636 20230904135601 /manage/orders
+103.179.70.122 30 422 229028852 20230902172257
+111.65.32.196 29 197 117100013 20230902184117
+42.60.36.53 28 377 253711040 20230904083806
+113.210.82.140 26 34 977874 20230903085921
+113.211.105.15 25 205 77618372 20230903055721
+101.127.164.10 21 251 77759862 20230903181021
+103.6.150.96 20 550 307230127 20230904002324
+119.56.99.223 17 274 68502845 20230904105453
+113.211.104.79 16 16 330028 20230903103610
+121.6.232.119 15 215 103643834 20230904104143
+115.66.202.67 14 285 18695179 20230902182823
+220.255.248.132 14 197 124340746 20230904125156
+195.133.131.188 14 313 178469116 20230904102040
+115.164.172.46 14 233 34557162 20230904053714
+58.71.133.246 14 186 73586077 20230901050013
+116.15.216.56 13 127 70559392 20230904111154
+101.127.159.150 13 60 22930783 20230904130101
+119.74.74.31 12 300 140361377 20230904120704
+121.121.167.78 12 25 1737404 20230902185544
+14.231.178.232 12 69 26634242 20230903061026
+115.134.105.176 11 147 68203858 20230904102854
+14.192.237.204 11 229 152231329 20230903124549
+121.121.167.99 11 16 1457688 20230901111708
+183.171.175.27 2 50 17296794 20230903152608
+113.211.210.184 10 496 262296627 20230904123859
+113.210.85.41 2 112 76972372 20230902052200
+175.143.36.218 1 100 29484777 20230901062703
+195.133.131.154 2 112 76972495 20230904102753
+103.234.156.67 5 9 1143610 20230903211840
+115.164.168.226 2 105 18609002 20230904102006
+115.164.83.235 2 112 74874989 20230903140032
+210.10.2.101 2 101 1562029 20230904084122
+115.164.176.66 3 6 756389 20230902122737
+119.56.105.137 2 101 15288191 20230904083626
+157.49.214.42 2 108 35517991 20230904103436
+122.11.214.110 2 65 665513 20230904091630
+121.6.198.208 4 120 31748848 20230904121838
+180.75.242.118 1 43 22487468 20230904123941
+173.252.107.5 0 1 458379 
+122.11.201.107 2 44 43271 20230904084814
+113.211.210.145 3 224 88944622 20230901074149
+116.89.48.224 1 14 77370 20230902072306
+202.166.37.127 3 108 68737967 20230902193620
+54.236.254.13 1 1 556687 20230902035300
+101.127.32.87 1 100 14696236 20230904091349
+121.6.178.206 4 104 60991110 20230904084304
+210.186.169.82 2 104 67687523 20230904085729
+13.39.21.23 1 8 141105 20230903001153
+115.164.89.172 1 1 17503 20230904092856
+118.201.189.238 2 127 28898079 20230904104402
+122.11.212.86 1 100 55302472 20230904092243
+14.192.208.214 7 200 129873808 20230901055251
+210.186.226.76 1 100 6704797 20230904085021
+113.211.210.31 1 100 47315251 20230904105753
+113.210.55.99 4 17 0 20230904063417
+52.32.179.37 2 2 85986 20230903131614
+119.56.64.87 3 125 79826884 20230903101946
+183.171.94.73 2 112 49800473 20230901044836
+121.121.56.87 5 115 77048407 20230901145419
+27.125.242.86 2 4 2147177 20230901052653
+220.255.210.147 8 121 48839539 20230904132124 20230904131649 /product/beaute-beetz-Qvur
+173.252.95.2 0 17 5310691 
+180.74.174.128 1 1 0 20230902085544
+66.220.149.11 0 1 837459 
+173.252.95.118 0 2 32662 
+113.210.84.10 7 76 56244698 20230904114944
+129.126.86.158 2 101 21217395 20230904111232
+113.211.136.78 2 48 6550377 20230902114024
+115.164.168.157 2 112 76972079 20230902120758
+122.11.214.52 1 100 67569759 20230904090312
+116.14.169.115 1 100 6408727 20230904133841 20230904133841 /product/beaute-beetz-Qvur
+183.171.191.166 5 53 2011220 20230903172809
+150.107.107.38 2 2 13330 20230901095522
+116.87.93.86 1 100 67569759 20230904104008
+27.125.249.27 2 100 43261 20230904115806
+183.171.111.7 3 102 34487323 20230904084427
+183.171.99.57 1 47 22577493 20230903045745
+113.210.63.115 1 1 9378 20230901044652
+49.245.76.117 1 100 67569754 20230904134647 20230904134647 /product/beaute-beetz-Qvur
+218.186.145.184 1 100 67569756 20230904132058 20230904132058 /product/beaute-beetz-Qvur
+193.186.4.166 1 1 22788 20230903073905
+111.65.59.223 2 112 25488115 20230903063531
+54.201.97.17 1 1 42803 20230904131442 20230904131442 /
+116.15.42.46 1 2 350181 20230901063854
+113.211.104.207 2 4 3805230 20230903085546
+118.189.42.172 1 100 67569758 20230904093142
+101.127.21.228 3 105 67649834 20230904091423
+219.74.235.57 2 112 8466475 20230901111628
+60.48.51.226 2 191 75381519 20230901041743
+101.127.183.98 1 100 11372442 20230904100307
+27.125.249.33 1 104 11042781 20230904091347
+115.164.209.81 1 100 67569755 20230904085748
+199.244.88.225 1 1 42998 20230903225143
+129.126.203.132 2 101 67587342 20230904083615
+42.61.124.168 1 4 2477532 20230904091140
+138.75.21.129 2 107 14422489 20230904085603
+115.164.218.103 7 57 50946 20230902091143
+13.38.112.222 1 47 22553191 20230903001630
+202.55.72.179 5 104 67653906 20230904112057
+113.210.55.35 3 21 713149 20230904110128
+119.56.107.67 1 100 2827663 20230904123222
+113.211.209.77 1 100 67569758 20230904084918
+64.233.172.128 2 6 80317 20230904121720
+1.32.45.251 0 73 11634010 
+27.125.244.79 1 73 9890645 20230904055520
+115.164.218.120 1 92 46604319 20230901045144
+116.86.97.116 2 35 22146431 20230901040423
+218.212.57.159 8 110 67788562 20230904103211
+161.142.156.56 3 50 22763231 20230902055918
+192.178.8.37 7 11 105100 20230904035000
+42.61.145.204 1 100 28162511 20230904140916 20230904140916 /product/beaute-beetz-Qvur
+202.166.6.219 4 128 72515301 20230903121914
+183.171.175.159 1 100 19318854 20230904101216
+54.186.59.58 1 1 42983 20230901125513
+31.13.127.4 0 1 660122 
+183.171.104.185 1 100 67600634 20230901050832
+220.255.191.19 3 105 67669820 20230904103809
+111.65.69.59 1 100 67600795 20230904084033
+115.164.75.38 3 102 67598677 20230904085829
+173.252.95.4 0 19 14378720 
+180.74.252.255 1 47 22553400 20230901023653
+122.11.245.24 1 100 67600798 20230904130329
+54.191.20.41 1 1 42994 20230903131742
+96.9.172.45 1 100 67569756 20230904100715
+14.192.210.176 1 8 1035879 20230901140706
+218.212.67.89 7 72 51835318 20230903065226
+23.106.120.148 10 128 83165128 20230903075827
+210.10.5.49 2 112 77024229 20230904122718
+115.164.204.247 1 100 67600630 20230901103812
+115.164.81.35 1 15 3283903 20230904135957 20230904135957 /product/beaute-beetz-Qvur
+161.142.143.138 1 100 67569761 20230904090041
+116.87.98.241 1 100 67600808 20230904085408
+115.164.181.109 2 86 20706792 20230904032423
+103.252.200.170 3 102 32249507 20230903145526
+161.142.151.106 4 119 1815093 20230904111443
+115.164.220.127 2 101 67587366 20230904103926
+122.11.212.138 1 100 54337012 20230904091822
+116.87.88.170 1 100 67600807 20230904110356
+183.171.65.19 2 84 7789005 20230902084709
+63.117.215.72 1 17 4989792 20230904105156
+31.13.127.9 0 1 842570 
+185.241.227.207 2 45 17338655 20230904112541
+42.190.86.242 3 4 65885 20230902211648
+111.65.44.121 1 100 65028771 20230904133242 20230904133242 /product/beaute-beetz-Qvur
+121.121.167.89 0 2 1439875 
+111.65.50.224 8 60 24796090 20230904105342
+121.123.41.137 2 29 18625359 20230904060635
+51.15.247.31 2 2 0 20230902005627
+115.164.200.37 1 1 25256 20230902122924
+115.164.75.19 2 102 6558646 20230904035811
+182.55.24.120 3 145 80309710 20230904092323
+119.74.15.253 2 120 4954753 20230904113124
+115.164.201.96 1 47 18422642 20230902054144
+222.164.21.95 7 217 95098225 20230904104550
+115.164.62.206 5 114 30462910 20230904042402
+119.56.102.197 1 100 37475873 20230904125352
+115.164.179.76 1 100 67569756 20230904111545
+173.252.95.12 0 8 2808350 
+58.182.202.67 2 101 67587272 20230904093650
+14.192.211.17 1 47 7072924 20230903051427
+42.60.137.208 1 1 0 20230904083447
+180.75.240.239 1 47 8440917 20230901171257
+175.144.190.78 3 157 20480164 20230903081917
+115.164.54.114 1 100 67569760 20230904095057
+103.6.150.29 3 49 9822043 20230903073930
+223.238.208.208 1 100 63372299 20230904083834
+121.121.168.142 5 18 673926 20230903092441
+18.118.14.218 1 1 0 20230903172603
+27.125.242.126 6 287 79472600 20230904072100
+39.109.178.179 1 100 65382118 20230904112508
+119.56.104.109 1 68 4432338 20230904123149
+115.66.143.70 1 100 67569762 20230904091152
+104.248.196.177 1 1 42993 20230902105944
+119.56.108.14 1 100 67569758 20230904113924
+165.173.7.129 1 100 34034179 20230904094437
+116.15.50.102 1 100 67024566 20230904103627
+165.225.113.33 1 1 22788 20230901083055
+178.254.12.205 1 1 13318 20230901203650
+203.82.75.134 0 8 625160 
+173.252.95.7 1 1 22727 20230904070142
+113.210.85.237 1 92 9499831 20230901022022
+42.60.79.174 3 127 86481404 20230901050452
+69.63.189.22 0 1 176776 
+64.233.172.129 4 12 201166 20230904121720
+115.135.196.184 3 107 68942200 20230901074527
+152.58.212.166 2 112 25989718 20230903200959
+111.65.57.10 3 113 48237579 20230904042020
+14.192.214.12 2 105 68562722 20230904103159
+220.255.171.198 0 1 347856 
+119.74.171.92 4 106 67662493 20230904084119
+113.211.126.62 1 47 22553196 20230903072931
+134.209.24.4 1 1 556687 20230903042056
+115.164.74.68 4 169 72193039 20230904090853
+111.65.69.197 1 100 67569757 20230904083246
+122.11.212.179 7 108 21636825 20230904093711
+27.125.245.38 1 100 17192812 20230904133054 20230904133054 /product/beaute-beetz-Qvur
+116.88.145.147 1 100 67600794 20230904113946
+93.158.90.72 1 1 42990 20230902072318
+175.143.38.129 1 100 67600799 20230904084703
+42.60.123.70 2 189 81752157 20230904133459 20230904133428 /product/beaute-beetz-Qvur
+111.65.46.136 7 149 107019067 20230903050622
+111.65.45.204 6 17 5038651 20230902140805
+220.255.117.1 3 89 31537076 20230904090053
+115.135.26.119 1 92 23699468 20230904084226
+114.111.32.23 1 1 42982 20230903182351
+180.255.70.190 4 203 61242388 20230904091251
+122.11.214.27 4 114 10475960 20230903163612
+27.125.241.21 0 44 0 
+113.210.54.227 0 1 0 
+49.245.96.228 1 100 37523536 20230904083943
+113.211.137.206 1 17 17497 20230902122434
+122.11.214.49 3 171 82851224 20230903095215
+114.111.32.39 1 1 43003 20230901225359
+101.100.176.15 1 100 67569757 20230904092528
+115.164.207.49 1 100 4759025 20230904112726
+113.210.52.229 5 118 77112318 20230903064232
+119.56.108.217 1 100 57358283 20230904094502
+185.254.66.37 3 3 45786 20230903233956
+122.11.212.218 1 100 67569757 20230904092350
+173.252.83.4 0 1 708313 
+49.245.95.138 2 49 22808844 20230903131006
+192.178.8.38 1 8 143539 20230904034925
+151.192.141.184 1 100 12906933 20230904085235
+165.21.47.54 1 102 14618289 20230904055707
+111.83.74.239 1 47 16598261 20230903081345
+14.192.209.11 3 113 76995245 20230902025636
+113.211.209.239 1 5 3801427 20230901174601
+222.164.59.205 1 100 1240747 20230904090416
+111.65.71.114 1 1 25670 20230904123800
+113.211.136.172 3 113 31794767 20230903114710
+64.233.172.142 3 6 73220 20230904121720
+119.56.70.243 3 105 67655154 20230904124111
+182.55.25.3 1 100 67569763 20230904100202
+111.65.60.120 1 100 66601312 20230904122102
+113.210.63.179 7 41 9572652 20230901041606
+219.74.101.227 6 96 8169943 20230903175101
+193.32.87.42 1 1 577211 20230901000242
+113.210.49.20 11 192 20617186 20230904055105
+34.95.185.149 1 1 577211 20230901023140
+113.211.98.178 3 6 1214857 20230902095902
+111.65.35.45 9 175 110197353 20230903045929
+119.234.6.142 0 1 347856 
+122.11.212.253 2 101 1792507 20230904101047
+122.11.212.25 3 105 67708835 20230904101024
+113.211.141.1 1 100 67569751 20230904084444
+115.164.40.158 3 95 58242653 20230904091338
+27.125.154.231 1 47 22483633 20230902072908
+218.111.77.170 2 101 67592195 20230904100339
+115.164.88.237 3 103 67588327 20230904115311
+103.6.150.21 2 97 35955421 20230904092146
+202.190.35.219 3 122 52108736 20230904022203
+113.211.121.145 2 117 40414294 20230901092933
+111.65.39.96 5 168 75429972 20230904105055
+202.166.142.133 4 50 14942232 20230902195725
+192.178.8.39 2 9 160433 20230904022159
+113.210.87.160 1 100 32285004 20230904092835
+142.54.169.134 1 1 42990 20230903225034
+31.13.103.5 0 1 645994 
+115.164.80.231 1 100 22490232 20230902063708
+101.127.17.168 2 101 11926901 20230903062734
+39.109.215.151 4 114 67774205 20230902002401
+121.6.106.207 4 214 139769443 20230904094743
+219.74.168.241 3 102 12974415 20230904092736
+220.255.118.33 1 100 39215965 20230904111251
+69.171.230.10 0 2 1473216 
+64.222.212.197 1 17 4995059 20230904101820
+219.74.27.74 1 100 67569756 20230904100747
+155.69.167.66 1 100 1412002 20230904121141
+130.164.74.17 5 114 449335 20230904062408
+220.255.85.104 1 92 2695146 20230904123621
+111.65.37.149 1 100 67600810 20230904111151
+31.13.115.3 0 1 605391 
+218.186.153.191 3 113 76972489 20230903133843
+183.171.175.122 1 47 22577505 20230902065920
+103.118.20.202 1 114 77631997 20230901083559
+123.140.3.27 3 105 67711910 20230904100300
+178.254.29.124 1 1 42992 20230901191723
+58.71.159.232 4 174 128931967 20230901231201
+134.238.209.146 1 100 67569012 20230904051741
+103.252.200.122 2 103 49193013 20230904112923
+121.6.87.205 1 100 34217252 20230904122105
+116.87.168.56 2 101 67600801 20230904091118
+180.129.68.83 2 187 118538614 20230904093716
+115.164.60.98 4 176 25847331 20230904084858
+115.164.94.97 1 100 67569753 20230904084954
+154.56.60.242 1 1 42981 20230903191425
+119.234.4.11 0 7 341391 
+122.11.246.135 2 112 77024388 20230903082758
+27.5.103.49 1 100 67569015 20230904072517
+202.186.245.36 1 100 67569763 20230904093726
+122.11.214.55 2 128 8543889 20230904091904
+161.142.202.115 1 100 67568957 20230904101650
+121.7.52.92 2 112 57660841 20230903163737
+119.56.100.159 1 100 21740668 20230904083613
+159.196.13.67 10 236 50029219 20230904132255 20230904131802 /customer/ajax/checkcoupon
+138.197.166.195 1 1 42817 20230904095919
+119.56.109.174 2 200 46800244 20230904100806
+116.14.136.74 1 100 11049922 20230904111049
+115.134.89.54 1 100 16649901 20230904083715
+58.186.115.123 1 100 64382593 20230903035002
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20230901 118 2938 1466551342 39
+20230902 161 2387 1006913418 34
+20230903 248 4454 2067575683 56
+20230904 534 17279 7233985253 175
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 56
+2mn-5mn 25
+0s-30s 182
+30mn-1h 5
+5mn-15mn 19
+1h+ 1
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 75
+/product/beaute-beetz-Qvur 227 6744732 133 108
+/ 220 7663834 125 53
+/carts 188 2835365 5 28
+/products 42 1131277 1 9
+/checkout 37 595112 0 6
+/customer/login 34 373374 5 8
+/product/herbal-tea- 30 801149 7 9
+/customer/buyer-infotmation%5Cprofile%5Cedit 23 357893 0 0
+/product/6-weeks-challenge-5L75 20 566474 8 10
+/login 16 23403 0 0
+/manage/orders/paid 15 89170 1 1
+/home 15 55199 0 3
+/product/pre-order-99-kickstart-plus- 13 437770 1 2
+/manage/orders/unpaid 11 64383 0 1
+/argon/vendor/nucleo/fonts/nucleo-icons.woff2 11 77220 7 1
+/customer/dashboard 10 98993 0 0
+/manage/orders 10 837066 0 1
+/argon/vendor/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2 8 391896 0 3
+/product/pre-order-99-dreambody-full-set-MUO0 8 256618 0 2
+/manage/products 6 56257 1 2
+/product/xflab- 6 203338 2 3
+/argon/vendor/nucleo/fonts/nucleo-icons.woff 5 51100 3 1
+/argon/vendor/nucleo/fonts/nucleo-icons.ttf 5 50575 0 5
+/product/strawberry-yummy-tummy-PomX 5 125559 0 2
+/customer/ajax/checkcoupon 5 490 0 0
+/getorderdetail/ajax 2 2020 0 1
+/order/confirm/B6HmB 1 12125 0 1
+/product/cappuccino-yummy-tummy-ESrR 1 25469 0 1
+/customer/shipping-infotmation%5Cprofile%5Cedit 2 29791 0 0
+/order/confirm/j0ajB 2 23820 0 1
+/order/confirm/p2usY 1 12105 0 1
+/courier/manage/1517 2 9719 0 0
+/order/confirm/SlwZa 1 12163 0 0
+/product/dates-yummy-tummy-6RYG 3 76925 0 1
+/invoice/1515 1 2541 0 0
+/product/dreambody-flabby-set-z5Xi 2 49559 0 1
+/invoice/1518 3 7215 0 1
+/cpanel 1 13330 0 1
+/product/size-l-high-waist-shaper-tummy-tuck-shorts-hCFf 1 26071 0 0
+/dietplan 1 11045 0 0
+/invoice/1513 1 2420 0 0
+/ordered/success/yE4BJ 1 11400 0 1
+/order/confirm/Tg7UV 1 12283 0 0
+/story 2 28113 0 1
+/order/confirm/fE65X 1 12118 0 1
+/product/hey-baby-water-bottle-Zo3C 1 24457 1 1
+/invoice/1520 1 2468 0 1
+/order-confirmed/invoice/PQVZv 1 2325 1 1
+/product/6-weeks-challenge-NEnH 2 25326 0 1
+/customer/order/history 3 36297 0 0
+/product/ritz-shaker-XR3h 4 99610 0 0
+/newsandevents 1 13318 1 1
+/order/confirm/RmDY7 1 12103 0 0
+/invoice/1517 1 2429 0 0
+/product/caramel-coffee-yummy-tummy-M8wT 4 101535 0 3
+/order/confirm/5viJC 1 11918 0 0
+/order/confirm/xyXJJ 1 12121 0 0
+/courier/manage/1515 2 9967 0 0
+/order/confirm/yE4BJ 1 11927 0 0
+/product/preorder-99-dreambody-basic-set-FMr6 2 51652 0 1
+/testimonials 1 14874 0 0
+/product/mocha-yummy-tummy-0dJv 4 101624 0 3
+/argon/vendor/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2 3 67400 0 0
+/argon/vendor/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2 3 14868 0 1
+/ritzenchantress/young-entrepreneurs-share-what-it-takes-to-make-it 1 15044 0 1
+/product/chocolate-hazelnut-yummy-tummy-qfqu 5 155108 0 0
+/contact 3 34511 0 1
+/faq 5 61292 1 4
+/product/purple-yam-yummy-tummy-bcdq 1 52127 0 0
+/product/size-xl-high-waist-shaper-tummy-tuck-shorts-JMJj 1 52853 0 0
+/product/preorder-99-ritz-super-set-UceU 1 24870 0 0
+/ordered/success/5viJC 1 11398 0 1
+/order/confirm/1inxD 1 12198 0 1
+/order/confirm/gevZ6 2 24222 0 1
+/online/order/cancel 3 0 1 0
+END_SIDER
